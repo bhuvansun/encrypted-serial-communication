@@ -1,2 +1,7 @@
-# encrypted-serial-communication
-A library to enable encrypted communications over serial ports.
+# Secure Serial
+
+## Description
+
+A secure serial implementation for Arduino.
+
+For more information, refer to `report.pdf`.
